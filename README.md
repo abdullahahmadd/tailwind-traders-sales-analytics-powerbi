@@ -116,27 +116,27 @@ The project utilizes multiple datasets representing sales transactions and suppo
    - Preparing date fields for time intelligence analysis  
 
 4. **Data Modeling**
-  - A structured data model was created by:
+   - A structured data model was created by:
    - Building relationships between fact and dimension tables  
    - Implementing calendar table for time-based analysis  
    - Ensuring optimized model performance  
 
 5. **DAX Measure Development**
-  - Custom measures were developed to calculate:
+   - Custom measures were developed to calculate:
    - Profit margins across different time periods  
    - Median sales values  
    - Aggregated KPIs for executive reporting  
 
 6. **Performance Optimization**
-  - Performance Analyzer was used to:
+   - Performance Analyzer was used to:
    - Monitor visual load times  
    - Optimize DAX queries  
    - Improve report responsiveness  
 
 7. **Dashboard Development**
    - Two interactive dashboards were created:
-- Sales Overview Dashboard  
-- Revenue & Profit Performance Dashboard  
+   - Sales Overview Dashboard  
+   - Revenue & Profit Performance Dashboard  
 
 Each dashboard was designed with business-focused visual storytelling and interactive filtering capabilities.
 
