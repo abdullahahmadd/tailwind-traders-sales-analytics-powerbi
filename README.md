@@ -2,9 +2,9 @@
 ### 🎓 Microsoft Power BI Data Analyst Specialization - Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tailwind-traders-sales-analytics-powerbi)
-![Business Intelligence](https://img.shields.io/badge/Skill-Business%20Intelligence-blue)
-![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-green)
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-blue)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow)
 
 ---
 
