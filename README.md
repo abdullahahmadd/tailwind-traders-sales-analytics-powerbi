@@ -68,11 +68,11 @@ The project utilizes multiple datasets representing sales transactions and suppo
 ---
 
 ## 🛠 Tools & Technologies Used
-- 📊 Power BI Desktop  
-- 🧮 DAX (Data Analysis Expressions)  
-- 🔄 Power Query (Data Transformation)  
-- 📂 Data Modeling & Relationship Building  
-- 📈 Data Visualization & Dashboard Design  
+- Power BI Desktop  
+- DAX  
+- Power Query  
+- Data Modeling  
+- Data Visualization & Dashboard Design  
 
 ---
 
