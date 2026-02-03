@@ -1,4 +1,4 @@
-# 📊 Tailwind Traders Sales Analytics & Business Intelligence (Power BI)
+# 📊 Tailwind Traders Sales Analytics Power BI
 ### 🎓 Microsoft Power BI Data Analyst Specialization - Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tailwind-traders-sales-analytics-powerbi)
