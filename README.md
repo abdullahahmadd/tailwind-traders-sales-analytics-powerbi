@@ -109,29 +109,29 @@ The project utilizes multiple datasets representing sales transactions and suppo
    - Datasets including sales transactions, purchases, and country data were imported into Power BI Desktop.
 
 3. **Data Cleaning & Transformation (Power Query)**
-   - Data preprocessing included:
-- Validating data types  
-- Handling missing or inconsistent values  
-- Standardizing country and product naming  
-- Preparing date fields for time intelligence analysis  
+   Data preprocessing included:
+   - Validating data types  
+   - Handling missing or inconsistent values  
+   - Standardizing country and product naming  
+   - Preparing date fields for time intelligence analysis  
 
 4. **Data Modeling**
-   - A structured data model was created by:
-- Building relationships between fact and dimension tables  
-- Implementing calendar table for time-based analysis  
-- Ensuring optimized model performance  
+  A structured data model was created by:
+   - Building relationships between fact and dimension tables  
+   - Implementing calendar table for time-based analysis  
+   - Ensuring optimized model performance  
 
 5. **DAX Measure Development**
-   - Custom measures were developed to calculate:
-- Profit margins across different time periods  
-- Median sales values  
-- Aggregated KPIs for executive reporting  
+  Custom measures were developed to calculate:
+   - Profit margins across different time periods  
+   - Median sales values  
+   - Aggregated KPIs for executive reporting  
 
 6. **Performance Optimization**
-   - Performance Analyzer was used to:
-- Monitor visual load times  
-- Optimize DAX queries  
-- Improve report responsiveness  
+  Performance Analyzer was used to:
+   - Monitor visual load times  
+   - Optimize DAX queries  
+   - Improve report responsiveness  
 
 7. **Dashboard Development**
    - Two interactive dashboards were created:
