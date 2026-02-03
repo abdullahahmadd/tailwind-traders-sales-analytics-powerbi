@@ -102,17 +102,17 @@ The project utilizes multiple datasets representing sales transactions and suppo
 
 ## 🔄 Project Workflow
 
-### 🧩 Step 1: Understanding Business Requirements
+1. **Understanding Business Requirements**
 The project started by analyzing business reporting needs and identifying key KPIs required by stakeholders to track organizational performance.
 
 ---
 
-### 📥 Step 2: Data Collection & Import (Power BI)
+2. **Data Collection & Import**
 Datasets including sales transactions, purchases, and country data were imported into Power BI Desktop.
 
 ---
 
-### 🧹 Step 3: Data Cleaning & Transformation (Power Query)
+3. **Data Cleaning & Transformation (Power Query)**
 Data preprocessing included:
 - Validating data types  
 - Handling missing or inconsistent values  
@@ -121,7 +121,7 @@ Data preprocessing included:
 
 ---
 
-### 🧱 Step 4: Data Modeling
+4. **Data Modeling**
 A structured data model was created by:
 - Building relationships between fact and dimension tables  
 - Implementing calendar table for time-based analysis  
@@ -129,7 +129,7 @@ A structured data model was created by:
 
 ---
 
-### 🧮 Step 5: DAX Measure Development
+5. **DAX Measure Development**
 Custom measures were developed to calculate:
 - Profit margins across different time periods  
 - Median sales values  
@@ -137,7 +137,7 @@ Custom measures were developed to calculate:
 
 ---
 
-### ⚡ Step 6: Performance Optimization
+6. **Performance Optimization**
 Performance Analyzer was used to:
 - Monitor visual load times  
 - Optimize DAX queries  
@@ -145,7 +145,7 @@ Performance Analyzer was used to:
 
 ---
 
-### 📊 Step 7: Dashboard Development
+7. **Dashboard Development**
 Two interactive dashboards were created:
 
 - Sales Overview Dashboard  
